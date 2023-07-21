@@ -14,7 +14,9 @@
 ※Misskeyについては開発者様の[こちらのサイト](https://misskey-hub.net/docs/misskey.html)をご覧ください。
 
 <img src="https://objstorage.misskirara.net/srtofmk.jpg" alt="すべてのはじまり" width="500">
-・・・こういった経緯で誕生しております。
+・・・こういった経緯で誕生しております。  
+お金が全くないまま作ってしまったので金欠でヤバいです。  
+
 ***  
 
 ## Who is moderating?
