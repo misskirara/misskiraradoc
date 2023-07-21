@@ -4,6 +4,8 @@
 ※まんがタイムきらら公式様とは一切関係のない非営利のファンサイトとなります。  
 ※現在ベータテスト中となります。  正式な公開時期は未定です。
 
+***  
+
 ## What's Misskirara?
 
 
@@ -11,7 +13,9 @@
 
 ※Misskeyについては開発者様の[こちらのサイト](https://misskey-hub.net/docs/misskey.html)をご覧ください。
 
-
+<img src="https://objstorage.misskirara.net/srtofmk.jpg" alt="すべてのはじまり" width="500">
+・・・こういった経緯で誕生しております。
+***  
 
 ## Who is moderating?
 
@@ -19,6 +23,7 @@ Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara
 
 
 
+***  
 
 ## Terms
 T.B.D...
