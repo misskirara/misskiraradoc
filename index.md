@@ -2,9 +2,9 @@
 
 きらら作品の話題提供、情報交流の場としての運用を目指しております。  
 ※まんがタイムきらら公式様とは一切関係のない非営利のファンサイトとなります。  
-※現在ベータテスト中となります。  正式な公開時期は未定です。
+※現在ベータテスト中となります。  正式な公開時期は未定です。  
+<a href="https://objstorage.misskirara.net/sampleimage.png"><img src="https://objstorage.misskirara.net/sampleimage.png" alt="sampleimage" width="600"></a>    
 
-  
 
 ## What's Misskirara?
 ***  
