@@ -7,7 +7,7 @@
 ## What's Misskirara?
 
 
- **Missky+きらら=Misskirara**  ということで、きらら作品関係に特化したMisskeyのインスタンスになります。
+ **Missky+きらら=Misskirara**  ということで、きらら作品関係に特化したMisskeyインスタンスになります。
 
 ※Misskeyについては開発者様の[こちらのサイト](https://misskey-hub.net/docs/misskey.html)をご覧ください。
 
@@ -27,6 +27,6 @@ T.B.D...
 
 ## Contact
 Misskirara運営  
-Mail: radiumproduction@yahoo.co.jp (暫定)  
+Mail: support@mail.misskirara.net 
 Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)  
 
