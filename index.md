@@ -4,9 +4,6 @@
 ※まんがタイムきらら公式様とは一切関係のない非営利のファンサイトとなります。  
 ※現在ベータテスト中となります。  正式な公開時期は未定です。
 
-
-
-
 ## What's Misskirara?
 
 
@@ -30,6 +27,8 @@ T.B.D...
 
 ## Contact
 Misskirara運営
+
 Mail: radiumproduction@yahoo.co.jp (暫定)
+
 Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)
 
