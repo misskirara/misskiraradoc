@@ -7,7 +7,7 @@
   
 
 ## What's Misskirara?
-***
+***  
 
  **Missky+きらら=Misskirara**  ということで、きらら作品関係に特化したMisskeyのインスタンスです。
 
@@ -22,14 +22,14 @@
  
 
 ## Who is moderating?
-*** 
+***   
 Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara))が非営利にて運営しています。  
 
   
   
 
 ## Terms
-***
+***  
 Misskirara利用規約になります。
 
 本サービスをご利用いただく際は、以下のルールとマナーを守ってご利用いただくようお願いします。  
@@ -107,11 +107,12 @@ Misskirara利用規約になります。
 本規約の内容はMisskirara運営によってユーザーに通知することなく必要に応じて変更・改訂される場合があります。
   
   
-***
+
 
 
 
 ## Contact
+***  
 Misskirara運営  
 Mail: support@mail.misskirara.net  
 Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)  
