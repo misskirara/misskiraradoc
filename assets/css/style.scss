@@ -1,8 +1,7 @@
+---
+---
 $header-bg-color: #000;
 $header-bg-color-secondary: #fff;
----
----
-
 @import "{{ site.theme }}";
 .page-header {
   background-color: $header-bg-color;
