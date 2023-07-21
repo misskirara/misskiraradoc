@@ -27,8 +27,6 @@ T.B.D...
 
 ## Contact
 Misskirara運営
-
-Mail: radiumproduction@yahoo.co.jp (暫定)
-
-Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)
+Mail: radiumproduction@yahoo.co.jp (暫定)  
+Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)  
 
