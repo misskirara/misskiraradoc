@@ -7,7 +7,7 @@
 ## What's Misskirara?
 
 
- **Missky+きらら=Misskirara**  ということで、きらら作品関係に特化したMisskeyインスタンスになります。
+ **Missky+きらら=Misskirara**  ということで、きらら作品関係に特化したMisskeyのインスタンスです。
 
 ※Misskeyについては開発者様の[こちらのサイト](https://misskey-hub.net/docs/misskey.html)をご覧ください。
 
