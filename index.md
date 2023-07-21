@@ -24,7 +24,7 @@
 ## Who is moderating?
 ***   
 Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara))が非営利にて運営しています。  
-中の人は([@curonet@misskirara.net](https://misskirara.net/@curonet))ですが、個人的な投稿と運営の~~愚痴~~小話が流れているだけです。  
+中の人は([@curonet@misskirara.net](https://misskirara.net/@curonet))ですが、こちらは個人的な投稿~~と運営の愚痴~~のアカウントです。  
   
   
 
