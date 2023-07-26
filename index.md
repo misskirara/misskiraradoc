@@ -31,7 +31,7 @@ Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara
 ## Terms
 ***  
 Misskirara利用規約になります。
-
+[](#Terms)
 本サービスをご利用いただく際は、以下のルールとマナーを守ってご利用いただくようお願いします。  
 違反行為が確認された場合、サービスやアカウントの利用を制限することがあります。
 
