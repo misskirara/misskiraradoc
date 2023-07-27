@@ -58,7 +58,7 @@ Googleフォームの仕様上、投稿フォーム上は**全ファイル形式
 
 <center>
 Lightテーマ(#FFF0FB)　　　　　　　Darkテーマ(#1E0114)<br>   
-<span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　</span><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　</span>
+<span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　</span><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　</span>
 </center>
 
 
