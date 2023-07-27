@@ -55,9 +55,10 @@ Googleフォームの仕様上、投稿フォーム上は**全ファイル形式
 カスタム絵文字の視認性には注意してください。MisskeyにはLightテーマとDarkテーマの2つのテーマがあります。  
 どちらのテーマでも視認性をある程度担保できるようにデザインをするのが望ましいです。  
 現在のMisskiraraのノートの背景色は下記になります。  
+<center>
 Lightテーマ(#FFF0FB)                           Darkテーマ(#1E0114)   
-<span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　　　　　　　　　　　</span><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　　　　　　　　　　　</span>
-
+<span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　　　　　　</span><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　　　　　　</span>
+</center>center>
 
 # 5.カスタム絵文字の差し替えについて
 カスタム絵文字の差し替えについては登録用の申請フォームから行って頂くことが可能です。  
