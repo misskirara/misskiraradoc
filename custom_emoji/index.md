@@ -1,6 +1,8 @@
 # 【カスタム絵文字を制作されている方へ】  
 いつも、Misskiraraへのカスタム絵文字のご提供を頂きましてありがとうございます。
 
+ベータ期間中は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSd5lpr2tNbs0hAwVZ38LvP6_SSPelemrbG0i2uL5CxqLOJ_5A/viewform)より、ベータ参加者なら誰でもカスタム絵文字の登録が可能です。
+
 カスタム絵文字制作時の注意点について、いくつか記載させて頂きます。
 
 
