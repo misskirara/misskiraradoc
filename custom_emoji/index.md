@@ -12,7 +12,8 @@
 
 審査の結果、登録承認となったカスタム絵文字は、システムにより自動で登録処理が行われます。  
 審査の結果につきましては、審査が完了し次第[@misskirara_emoji](https://misskirara.net/@misskirara_emoji) よりDMで連絡させていただきます。  
-登録に至った際には、同アカウントより**新規カスタム絵文字追加の広お知らせ** が行われます。  
+登録に至った際には、同アカウントより下記のような**新規カスタム絵文字追加のお知らせ** が行われます。  
+<a href="https://objstorage.misskirara.net/register_emoji_info.png"><img src="https://objstorage.misskirara.net/register_emoji_info.png" alt="sampleimage" width="500"></a>    
 
 
 審査の内容は概ね以下の通りになります。
@@ -21,6 +22,7 @@
 - 絵文字の視認性、可読性
 - 他者に対する権利侵害の有無
 - NSFWに該当しないか
+- その他[利用規約](https://doc.misskirara.net/#terms)に抵触するような内容でないか
 
 現在のところ、既存絵文字との内容の重複に関しては却下事由とはしておりません。  
 また、権利に問題のあるカスタム絵文字を発見された際は、[@Misskirara](https://misskirara.net/@MissKirara) までDM頂けますと幸いです。
@@ -28,7 +30,7 @@
 
 
 # 2.画像形式について
-Misskiraraカスタム絵文字は投稿フォームにもあります通り、
+Misskiraraカスタム絵文字は投稿フォームにも記載があります通り、
 
 <center>.png .gif .webp .avif</center>
 
@@ -74,6 +76,13 @@ Lightテーマ(#FFF0FB)　　　　　　　Darkテーマ(#1E0114)<br>
 <span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　</span><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　</span>
 </center>
 
+
+また、リアクションとして利用した際の背景色は下記になります。  
+
+<center>
+Lightテーマ(#F2E4EE)　　　　　　　Darkテーマ(#290E20)<br>   
+<span style="color:#F2E4EE; background-color:#F2E4EE; font-size:180px;">　　</span><span style="color:#290E20; background-color:#290E20; font-size:180px;">　　</span>
+</center>
 極端に視認性、可読性が低い絵文字につきましては、審査において却下になる可能性があります。
 
 
@@ -81,7 +90,7 @@ Lightテーマ(#FFF0FB)　　　　　　　Darkテーマ(#1E0114)<br>
 カスタム絵文字の差し替えについては登録用の申請フォームから行って頂くことが可能です。  
 登録区分の項目で「差し替え」を選んでいただければと思います。  
 但し、差し替えについては登録処理が手動で行われております関係上、  
-差し替え完了時のDM連絡が行われません事ご了承いただければと思います。
+差し替え完了時にはDM連絡が行われませんのでご了承いただければと思います。
 
 # 6.カスタム絵文字の著作権について
 申請頂きましたカスタム絵文字の著作権については、その制作者に著作権が帰属します。  
@@ -96,3 +105,5 @@ Lightテーマ(#FFF0FB)　　　　　　　Darkテーマ(#1E0114)<br>
 
 
 以上、よろしくお願いいたします。
+
+更新日：2023年8月24日
