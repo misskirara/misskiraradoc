@@ -70,7 +70,7 @@ Misskiraraは個人、非営利で運営されておりますが、そのシス�
 <a href="https://objstorage.misskirara.net/amazon_image.png"><img src="https://objstorage.misskirara.net/amazon_image.png" alt="amazon_image" width="500"></a>    
 こちらはEメール形式のみの受付になります。受取先アドレスは **amazon@mail.misskirara.net** となります。  
 一回でも寄付を頂いた方にはアカウントへのAmazonサポートバッジ付与が行われます（こちらはその他の特典はございません）。  
-
+　  
 
 ## History 
 ***
