@@ -46,10 +46,10 @@ Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara
 中の人は([@curonet@misskirara.net](https://misskirara.net/@curonet))ですが、こちらは個人的な投稿~~と運営の愚痴~~のアカウントです。  
 
   
-## Donate
+## Donation
 ***   
 Misskiraraでは運営のために、[Pixiv Fanboxにて運営資金確保のための月額寄付を募集](https://curonet.fanbox.cc/plans)しております。  
-  
+[　](#donation)    
 Misskiraraは個人、非営利で運営されておりますが、そのシステムのほぼすべてで外部サービスを利用しております。  
 特に母体となるサーバマシンとネットワーク利用料に現在ある程度の費用が掛かっている状況でして、  
 プランは100円からございますので、サービスの維持は勿論のこと、  
@@ -57,12 +57,12 @@ Misskiraraは個人、非営利で運営されておりますが、そのシス�
 
 月額のサポートコースにご加入頂いた方には、アカウントへのバッジ付与、Misskiraraのドライブの拡張などの特典もございます。
 
-また、[Ofuseにて単発の寄付](https://ofuse.me/curonet/letter)も募集しております。  
+また、[OFUSEにて単発の寄付](https://ofuse.me/curonet/letter)も募集しております。  
 アカウント登録は不要で、下記のような手順で寄付が可能です。  
 <a href="https://objstorage.misskirara.net/ofuse_image.png"><img src="https://objstorage.misskirara.net/ofuse_image.png" alt="ofuse_image" width="500"></a>    
 ※クレジットカードのみの受付となっております。  
 
-一回でも寄付を頂いた方にはアカウントへのOfuseサポートバッジ付与が行われます（こちらはその他の特典はございません）。  
+一回でも寄付を頂いた方にはアカウントへのOFUSEサポートバッジ付与が行われます（こちらはその他の特典はございません）。  
 　  
 　  
 　  
