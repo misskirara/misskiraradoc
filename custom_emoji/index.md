@@ -120,10 +120,8 @@ Lightテーマ(#F2E4EE)　　　　　　　Darkテーマ(#290E20)<br>
 ④「情報」をクリックします。  
 <a href="https://objstorage.misskirara.net/files/e733fa5e-6546-4318-ad85-14ac4fafed57.png"><img src="https://objstorage.misskirara.net/files/e733fa5e-6546-4318-ad85-14ac4fafed57.png" alt="sampleimage" width="500"></a>
 
-[　](#terms)  
 ## Misskirara利用規約による上記権利の制限について
-
-下記の場合は著作権行使、及びライセンスの適用が制限されます。
+下記の場合は著作権行使、及びライセンスの適用が制限されます。[　](#terms)  
 - トラフィック上の問題によりカスタム絵文字の縮小、圧縮を必要とする場合
 - Misskirara画面のスクリーンショット及びノート埋め込み等による共有の際に  
   画像内にカスタム絵文字が含まれていた場合
