@@ -166,7 +166,7 @@ Misskirara利用規約になります。
 ### 免責事項
 本サービスは日本国内向けに提供されているサービスです。  
 本サービスは利用規約等の準拠法は個人情報保護法を含め、日本国の法律となります。  
-そのため、諸外国の法律、制度に準拠ができないため国外からのアカウント登録は禁止となります。  
+そのため、諸外国の法律、制度に準拠ができないため日本国外在住者によるアカウント登録は禁止となります。  
 **GDPRには準拠しておりませんので、EU圏内在住の方のアカウントは発見次第即削除させて頂きます。**  
 本サービスは投稿(ノート)を行うと連合している世界中のサーバーに内容が送信、複製されます。  
 （詳しくは「[ActivityPub](https://www.google.com/search?q=ActivityPub&oq=ActivityPub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzgxM2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8)」で検索してください。）  
