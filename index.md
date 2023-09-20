@@ -171,8 +171,9 @@ Misskirara利用規約になります。
 本サービスは投稿(ノート)を行うと連合している世界中のサーバーに内容が送信、複製されます。  
 （詳しくは「[ActivityPub](https://www.google.com/search?q=ActivityPub&oq=ActivityPub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzgxM2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8)」で検索してください。）  
 **一度投稿した情報を連合先のインスタンスにおいて完全に削除することは不可能となります。**  
-カスタム絵文字の著作権は絵文字の作成者に帰属します。本サービスではカスタム絵文字に関する権利上の問題については  
-絵文字の作成者に帰属する問題ですので、カスタム絵文字の削除、または画像の差し替え以外の措置は一切行いません。  
+カスタム絵文字の著作権は絵文字の作成者に帰属します。  
+本サービスではカスタム絵文字に関する権利上の問題については絵文字の作成者に帰属する問題ですので、  
+カスタム絵文字の削除、または画像の差し替え以外の措置は一切行いません。  
 本サービスで発生したユーザー間のトラブルや不利益についてはいかなる場合も責任を負いません。  
 また、上記禁止行為によって生じた事象につきましては一切責任を負わないものとします。  
   
