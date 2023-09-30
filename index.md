@@ -132,7 +132,7 @@ Misskirara利用規約になります。
 [当面の間、NSFWガイドラインにつきましては、Misskey.io様のガイドラインを踏襲させて頂きます。](https://support.misskey.io/hc/ja/articles/6657417016463-NSFW%E3%83%95%E3%83%A9%E3%82%B0%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E5%9F%BA%E6%BA%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
 #### カスタム絵文字に関する禁止行為
-- カスタム絵文字のライセンスに
+- カスタム絵文字のライセンスに違反する行為
 - カスタム絵文字について運営上または権利上の問題が発生した際の権利制限に抵触する行為  
   [権利制限に関する詳細はこちら](https://doc.misskirara.net/custom_emoji/#terms)
  
@@ -173,15 +173,18 @@ Misskirara利用規約になります。
 （詳しくは「[ActivityPub](https://www.google.com/search?q=ActivityPub&oq=ActivityPub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzgxM2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8)」で検索してください。）  
 **一度投稿した情報を連合先のインスタンスにおいて完全に削除することは不可能となります。**  
 カスタム絵文字の著作権は絵文字の作成者に帰属します。  
-本サービスではカスタム絵文字に関する権利上の問題については絵文字の作成者に帰属する問題ですので、  
+本サービスではカスタム絵文字に関する権利上の問題については絵文字作成者に帰属する問題ですので、  
 カスタム絵文字の削除、または画像の差し替え以外の措置は一切行いません。  
 本サービスで発生したユーザー間のトラブルや不利益についてはいかなる場合も責任を負いません。  
 また、上記禁止行為によって生じた事象につきましては一切責任を負わないものとします。  
-  
-　  
+本サービス利用者による権利利益の侵害や法令違反、ライセンス違反、虚偽申請等があった際は  
+当該利用者がその責任を負い、損害を賠償すべき義務を負います。  
+ただし、登録されたカスタム絵文字そのものに上記瑕疵があったことに起因する場合は  
+利用者に代わり、そのカスタム絵文字の申請者が当該賠償責任を負うこととします。
+   
 本規約の内容はユーザーに通知することなく必要に応じて変更・改訂される場合があります。  
     
-更新日:2023年9月20日  
+更新日:2023年9月30日  
 　  
 　  
 ## Privacy Policy
