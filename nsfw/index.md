@@ -24,7 +24,16 @@ Misskiraraでは、きらら作品におけるNSFWの考え方をそのまま踏
     <td style="border:none;"> <b>NSFWでない例</b> </td> <td style="border:none;"><b>NSFWの例</b></td>
   </tr>
   <tr style="border:none;" >
-    <td style="border:none;"> ![NSFWでない例](https://objstorage.misskirara.net/not_nsfw_mazoku.jpg) </td> <td style="border:none;"> ![NSFWの例](https://objstorage.misskirara.net/nsfw_fudosan.jpg)</td>
+    <td style="border:none;"> <img src="https://objstorage.misskirara.net/not_nsfw_mazoku.jpg"> </td> <td style="border:none;"> <img src="https://objstorage.misskirara.net/nsfw_fudosan.jpg"></td>
   </tr>
 </table>
-※画像引用元：[芳文社](https://houbunsha.co.jp/)
+※画像引用元：[芳文社](https://houbunsha.co.jp/)  
+
+　　   
+
+「まちカドまぞく」のシャミ子はTVアニメ化に際してキャラクターデザインにおける衣装の<u>修正がなかった</u>。  
+　→NSFWではないと推定できる  
+「RPG不動産」のラキラはTVアニメ化に際してキャラクターデザインにおける衣装の<u>修正が発生した</u> 。  
+　→NSFWであると推定できる  
+
+またNSFWは不適切コンテンツ全般を指すことから、
