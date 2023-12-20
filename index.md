@@ -48,7 +48,7 @@ Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara
   
 ## Donation
 ***   
-Misskiraraでは運営のために、[Pixiv FANBOXにて運営資金確保のための月額寄付を募集](https://curonet.fanbox.cc/plans)しております。  
+Misskiraraでは運営のために、[Pixiv FANBOX](https://curonet.fanbox.cc/plans)及び[Ci-en](https://ci-en.net/creator/22689)にて運営資金確保のための月額寄付を募集しております。  
 [　](#donation)    
 Misskiraraは個人、非営利で運営されておりますが、そのシステムのほぼすべてで外部サービスを利用しております。  
 特に母体となるサーバマシンとネットワーク利用料に現在ある程度の費用が掛かっている状況でして、  
