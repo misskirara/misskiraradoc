@@ -69,7 +69,7 @@ Misskiraraは個人、非営利で運営されておりますが、そのシス�
 　  
 同様に、[Amazonギフト券での寄付](https://www.amazon.co.jp/Amazon%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89-1_JP_Email-E%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AB%E3%82%82%E9%80%81%E4%BF%A1%E5%8F%AF-Amazon%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF/dp/B004N3APGO/ref=lp_2351652051_1_3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D)も募集しております。  
 <a href="https://objstorage.misskirara.net/amazon_image.png"><img src="https://objstorage.misskirara.net/amazon_image.png" alt="amazon_image" width="500"></a>    
-こちらはEメール形式のみの受付になります。受取先アドレスは **amazon@mail.misskirara.net** となります。  
+こちらはEメール形式のみの受付になります。受取先アドレスは **amazon@wh-mail.misskirara.net** となります。  
 一回でも寄付を頂いた方にはアカウントへのAmazonサポートバッジ付与が行われます。  
 （こちらはその他の特典はございません）  
 　  
@@ -271,6 +271,9 @@ Misskirara運営（以下，「運営」といいます。）は，本ウェブ�
 ## Contact
 ***  
 Misskirara運営  
-Mail: support@mail.misskirara.net  
+𝕏:[@misskirara_net](https://twitter.com/misskirara_net)  
+Misskey.io: [@misskirara_net](https://misskey.io/@misskirara)  
+BlueSky:[@misskirara.net](https://bsky.app/profile/misskirara.net)  
+　  
 Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)  
 
