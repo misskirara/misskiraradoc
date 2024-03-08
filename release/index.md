@@ -1,6 +1,6 @@
 # リリースノート
 
-<div style="text-align: right;">2024/3/3</div> 
+<div style="text-align: right;">2024/3/8</div> 
 ## [2024.3.1-misskirara-1.3](#202431-misskirara-13)   
 * アカウント生成時の初期TLをLTLに変更
 * バージョン更新時のリリースノートのリンクをMisskirara独自のものに変更
