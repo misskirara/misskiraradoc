@@ -272,6 +272,7 @@ Misskirara運営（以下，「運営」といいます。）は，本ウェブ�
 
 ## Contact
 ***  
+[　](#contact)  
 Misskirara運営  
 𝕏:[@misskirara_net](https://twitter.com/misskirara_net)  
 Misskey.io: [@misskirara_net](https://misskey.io/@misskirara)  
