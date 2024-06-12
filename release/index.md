@@ -1,5 +1,11 @@
 # リリースノート
 
+<div style="text-align: right;">2024/6/12</div> 
+## [2024.5.0-misskirara-1.3](#_202450-misskirara-13)   
+* [2024.5.0](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ  
+　  
+　  
+ 
 <div style="text-align: right;">2024/3/8</div> 
 ## [2024.3.1-misskirara-1.3](#_202431-misskirara-13)   
 * アカウント生成時の初期TLをLTLに変更
