@@ -281,6 +281,7 @@ Misskirara運営
 𝕏:[@misskirara_net](https://twitter.com/misskirara_net)  
 Misskey.io: [@misskirara_net](https://misskey.io/@misskirara)  
 BlueSky:[@misskirara.net](https://bsky.app/profile/misskirara.net)  
+[問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfQ2OE14kFl6bqvEvJUTWTjunzoeikKwpUX5DmhBwfo_aitXA/viewform)  
 　  
 Powered by [RadiumProduction](https://radiumproduction.blog.shinobi.jp/)  
 
