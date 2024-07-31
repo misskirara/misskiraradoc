@@ -46,9 +46,10 @@ Googleフォームの仕様上、投稿フォーム上は**全ファイル形式
 但し、ノート上で拡大して使用する可能性が高そうな絵文字は縦も大きめに作成するのが無難です。    
 縦横比については概ね下記の比率を超えると、リアクションが画面からはみ出ますのでご注意ください。  
 スマートフォン版→1:10  
-PC版→1:20  
+PC版　　　　　　→1:20  
   
-また、上下左右の余白はそのまま絵文字に反映されますので、基本的には余白を極力までカットすることをオススメします。
+また、上下左右の余白はそのまま絵文字に反映されます。  
+基本的にはカスタム絵文字の余白は極力までカットすることをオススメします。
 
 # 3.ファイルの容量について
 現在Misskiraraにおいて、カスタム絵文字のファイル容量は  
@@ -82,13 +83,13 @@ Misskeyには**LightテーマとDarkテーマの2つのテーマ**がありま�
 どちらのテーマでも視認性、可読性をある程度担保できる絵文字をデザインして頂けると助かります。  
 現在のMisskiraraのノートの背景色は下記になります。  
 
-<table border="none">
+<table>
 <tr><td>Lightテーマ(#FFF0FB)</td><td>Darkテーマ(#1E0114)</td></tr>  
 <tr><td><span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　</span></td><td><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　</span></td></tr>
 </table>
 
 また、リアクションとして利用した際の背景色は下記になります。  
-<table border="none">
+<table>
 <tr><td>Lightテーマ(#F2E4EE)</td><td>Darkテーマ(#290E20)</td></tr>  
 <tr><td><span style="color:#F2E4EE; background-color:#F2E4EE; font-size:180px;">　　</span></td><td><span style="color:#290E20; background-color:#290E20; font-size:180px;">　　</span></td></tr>
 </table>
