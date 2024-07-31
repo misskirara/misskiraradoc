@@ -82,21 +82,17 @@ Misskeyには**LightテーマとDarkテーマの2つのテーマ**がありま�
 どちらのテーマでも視認性、可読性をある程度担保できる絵文字をデザインして頂けると助かります。  
 現在のMisskiraraのノートの背景色は下記になります。  
 
-<center>
-Lightテーマ(#FFF0FB)　　　　　　　Darkテーマ(#1E0114)<br>   
-<span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　</span><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　</span>
-</center>
-<table>
+<table border="none">
 <tr><td>Lightテーマ(#FFF0FB)</td><td>Darkテーマ(#1E0114)</td></tr>  
 <tr><td><span style="color:#FFF0FB; background-color:#FFF0FB; font-size:180px;">　　</span></td><td><span style="color:#1E0114; background-color:#1E0114; font-size:180px;">　　</span></td></tr>
 </table>
 
 また、リアクションとして利用した際の背景色は下記になります。  
+<table border="none">
+<tr><td>Lightテーマ(#F2E4EE)</td><td>Darkテーマ(#290E20)</td></tr>  
+<tr><td><span style="color:#F2E4EE; background-color:#F2E4EE; font-size:180px;">　　</span></td><td><span style="color:#290E20; background-color:#290E20; font-size:180px;">　　</span></td></tr>
+</table>
 
-<center>
-Lightテーマ(#F2E4EE)　　　　　　　Darkテーマ(#290E20)<br>   
-<span style="color:#F2E4EE; background-color:#F2E4EE; font-size:180px;">　　</span><span style="color:#290E20; background-color:#290E20; font-size:180px;">　　</span>
-</center>
 極端に視認性、可読性が低い絵文字につきましては、審査において却下になる可能性があります。
 
 
