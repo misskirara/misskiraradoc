@@ -3,6 +3,7 @@
 <div style="text-align: right;">2024/10/20</div> 
 ## [2024.10.1-misskirara-1.3](#_202411-misskirara-13)   
 * [2024.10.1](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
+* 2024.10.0にセーフリストがMisskey標準になったことに伴いMisskirara独自のセーフリスト機能の提供終了   
 
 <div style="text-align: right;">2024/9/2</div> 
 ## [2024.8.0-misskirara-1.3](#_202480-misskirara-13)   
