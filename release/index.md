@@ -1,5 +1,9 @@
 # リリースノート
 
+<div style="text-align: right;">2025/03/08</div> 
+## [2025.3.0-misskirara-1.5](#_202503-misskirara-15)   
+* [2025.3.0](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
+
 <div style="text-align: right;">2025/02/09</div> 
 ## [2025.2.0-misskirara-1.5](#_202502-misskirara-15)   
 * ノート編集画面のプレビューの背景が実際のノートの背景色と異なっている問題の修正   
