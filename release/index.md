@@ -1,6 +1,6 @@
 # リリースノート
 
-<div style="text-align: right;">2025/05/08</div> 
+<div style="text-align: right;">2025/06/22</div> 
 ## [2025.6.3-misskirara-1.5](#_202563-misskirara-15)   
 * [2025.6.3](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
 * MeiliSerchの廃止
