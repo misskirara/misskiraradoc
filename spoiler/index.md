@@ -47,7 +47,7 @@ NSFWコンテンツと同様にNSFWフラグや「内容を隠す」機能、blu
    →　公式等による指針が示されている場合はその指針が優先されます。
     
 ## blurプラグインの配布について
-[こちら](https://misskirara.net/install-extentions?url=https://script.google.com/macros/s/AKfycbyPEtitmIU4ohOzEXckA3H1ZG_w_e19BbL7I-yX6_6OEKBIRpr4-KiHNmqAEAi7wmti/exec&hash=8cee09b2af8c8d4f5eb51ef9fd843413092c4ecee76c3552c2e9b60db1b9bc8b41b390b0e4e0daa6c1137d6c326d005690ab63de0eed82c6969a6e6fd4e80f96)より記載したノート本文に対してblur処理を行うことができるプラグインを配布しております。  
+[こちら](https://misskirara.net/install-extentions?url=https://script.google.com/macros/s/AKfycbxmWdDKc0xGycwt7Yw00iKcH7OgaIwV-yDKnL6Dj9OtClBFHKJUBEtTgddm5AzKMA3r/exec&hash=912d715bcb501144f0d10a1482890c1c08ab88026f046b5e6ae3c7d66381e81db16a25fc2db52b6053ba59ede6429a0a4792e2a233e6a5c86d544de5c753982f)より記載したノート本文に対してblur処理を行うことができるプラグインを配布しております。  
 よろしければご活用ください。
 
   
