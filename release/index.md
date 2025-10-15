@@ -1,5 +1,9 @@
 # リリースノート
 
+<div style="text-align: right;">2025/10/15</div> 
+## [2025.10.0-misskirara-1.6](#_2025100-misskirara-16)   
+* [2025.10.0](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
+
 <div style="text-align: right;">2025/09/16</div> 
 ## [2025.9.0-misskirara-1.6](#_202590-misskirara-16)   
 * ドライブデータの自動バックアップ機能の追加
