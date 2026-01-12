@@ -1,5 +1,9 @@
 # リリースノート
 
+<div style="text-align: right;">2026/01/12</div> 
+## [2025.12.2-misskirara-1.6](#_2025122-misskirara-16)   
+* [2025.12.2](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
+
 <div style="text-align: right;">2025/11/22</div> 
 ## [2025.11.0-misskirara-1.6](#_2025110-misskirara-16)   
 * [2025.11.0](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
