@@ -162,7 +162,7 @@ Misskirara利用規約になります。
 #### カスタム絵文字に関する禁止行為
 - カスタム絵文字のライセンスに違反する行為
 - カスタム絵文字について運営上または権利上の問題が発生した際の権利制限に抵触する行為  
-  [権利制限に関する詳細はこちら](https://doc.misskirara.net/custom_emoji/#terms)
+  [権利制限に関する詳細はこちら](https://doc.misskirara.net/custom_emoji/#restriction)
  
 #### 運営を妨げる行為
 - 虚偽や過度な通報を行う行為
