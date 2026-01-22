@@ -8,7 +8,7 @@ Misskiraraはきらら作品に関連する話や情報交換ができる場所�
 ※芳文社様及びまんがタイムきらら公式様とは一切関係のない非営利のファンサイトとなります。
 
 ## What's Misskirara?
-***  
+  
 
  **Misskey+きらら=Misskirara**  ということで、きらら作品関係に特化したMisskeyのインスタンスです。
 
@@ -41,13 +41,13 @@ Misskiraraでは、きららの話を盛り上げるために数々のカスタ�
  
 
 ## Who is moderating?
-***   
+   
 Misskirara運営([@MissKirara@misskirara.net](https://misskirara.net/@MissKirara))が非営利にて運営しています。  
 中の人は([@curonet@misskirara.net](https://misskirara.net/@curonet))ですが、こちらは個人的な投稿~~と運営の愚痴~~のアカウントです。  
 
   
 ## Donation
-***   
+   
 Misskiraraでは、[Pixiv FANBOX](https://curonet.fanbox.cc/plans)及び[Ci-en](https://ci-en.net/creator/22689)にて運営資金確保のための月額寄付を募集しております。  
 [　](#donation)    
 Misskiraraは個人、非営利で運営されておりますが、そのシステムのほぼすべてで外部サービスを利用しております。  
@@ -99,7 +99,7 @@ Misskiraraは個人、非営利で運営されておりますが、そのシス�
    
 
 ## Terms
-***  
+  
 Misskirara利用規約になります。  
 [　](#terms)  
 本サービスをご利用いただく際は、以下のルールとマナーを守ってご利用いただくようお願いします。  
@@ -224,7 +224,7 @@ MisskiraraはMisskeyのフォークである為、Misskey用のサードパー�
 　  
 　  
 ## Privacy Policy
-*** 
+ 
 Misskirara運営（以下，「運営」といいます。）は，本ウェブサイト上で提供するサービス（以下,「本サービス」といいます。）における，ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシー（以下，「本ポリシー」といいます。）を定めます。  
 [　](#pp)  
 ### 第1条（プライバシー情報）
