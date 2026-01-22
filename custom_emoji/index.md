@@ -139,10 +139,11 @@ Misskeyには**LightテーマとDarkテーマの2つのテーマ**がありま�
 ③ライセンスを確認したい絵文字をクリックします。  
 ④「情報」をクリックします。  
 <a href="https://objstorage.misskirara.net/files/e733fa5e-6546-4318-ad85-14ac4fafed57.png"><img src="https://objstorage.misskirara.net/files/e733fa5e-6546-4318-ad85-14ac4fafed57.png" alt="sampleimage" width="500"></a>
-
+  
+<span id="restriction"></span>
 ## Misskirara利用規約による上記権利の制限について
 下記の場合は著作権行使、及びライセンスの適用が制限されます。  
-[　](#restriction)  
+  
 - トラフィック上の問題によりカスタム絵文字の縮小、圧縮を必要とする場合
 - Misskirara画面のスクリーンショット及びノート埋め込み等の方法によってMisskirara外部に対して
   Misskirara画面を共有する際に、共有した媒体にカスタム絵文字が含まれていた場合
@@ -157,19 +158,7 @@ Misskeyには**LightテーマとDarkテーマの2つのテーマ**がありま�
 　パロディ元が想起できない程度に改変された絵文字であれば必要はありません。  
 
   
-上記内容にご承諾いただけない場合、カスタム絵文字の登録却下、登録後の削除の対象となります。
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+上記内容にご承諾いただけない場合、カスタム絵文字の登録却下、登録後の削除の対象となります。    
   
 以上、よろしくお願いいたします。
   
