@@ -9,11 +9,17 @@ $section-headings-color: #ff8cd7;
 }
 .btn{
   color:#ffa3ff;
+  font-family:"メイリオ";
   &:hover {
     color:#ff8cd7;
+    font-weight: bold;
   }
 }
 
 .gotomisskirara{
+  color:#f9f71e;
   background-color:#F2E4EE;
+    &:hover {
+    color:#ff8cd7;
+  }
 }
