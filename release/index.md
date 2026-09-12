@@ -1,5 +1,9 @@
 # リリースノート
 
+<div style="text-align: right;">2026/08/12</div> 
+## [2026.9.0-misskirara-1.6](#_202690-misskirara-16)   
+* [2026.9.0](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
+
 <div style="text-align: right;">2026/08/05</div> 
 ## [2026.7.0-misskirara-1.6](#_202670-misskirara-16)   
 * [2026.7.0](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)のマージ
